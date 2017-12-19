@@ -1,3 +1,4 @@
 exports.run = function(input) {
-  console.log("Exercise #3");
+	var person = Objet.assign({}, input[0], input[1]);
+	console.log(person);
 };

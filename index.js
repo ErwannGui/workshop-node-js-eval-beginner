@@ -9,8 +9,8 @@ const inputs = [
     "44",
     666,
     "bye"
-  ],*/
-  "64,23,56,7",
+  ],
+  "64,23,56,7",*/
   [
     { name: "Dupont", money: 200 },
     { firstname: "Marc", money: 40 }
