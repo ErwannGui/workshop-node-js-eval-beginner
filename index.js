@@ -3,13 +3,13 @@ const chalk = require("chalk");
 const numExercise = process.argv[2] || 1;
 
 const inputs = [
-  [
+  /*[
     "Hello you",
     9,
     "44",
     666,
     "bye"
-  ],
+  ],*/
   "64,23,56,7",
   [
     { name: "Dupont", money: 200 },
