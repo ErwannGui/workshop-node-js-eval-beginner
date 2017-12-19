@@ -1,9 +1,12 @@
 exports.run = function(input) {
-  console.log("Exercise #4");
+  
+	function myfunction(a, b, c) {
+		return a*b;
+	}
+	
+	console.log(myFunction, 10, 3);
 
-  // YOUR CODE IS WELCOME HERE
-
-  /** STRICTLY FORBIDDEN TO CHANGE THIS CODE */
-  return input(myFunction, 10, 3);
-  /** */
+	/** STRICTLY FORBIDDEN TO CHANGE THIS CODE */
+	return input(myFunction, 10, 3);
+	/** */
 };

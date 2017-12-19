@@ -4,5 +4,6 @@ exports.run = function(input) {
 	for (var i=0; i < res.length; i++) {
 		somme += Number(res[i]);
 	}
-  console.log(somme);
+	console.log(somme);
+	return somme;
 };

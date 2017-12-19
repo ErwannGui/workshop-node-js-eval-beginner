@@ -1,3 +1,5 @@
 exports.run = function(input) {
-  console.log(input.slice(0, 3));
+	res = input.slice(0, 3);
+	console.log(res);
+	return res;
 };
